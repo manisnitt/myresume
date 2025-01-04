@@ -1,4 +1,4 @@
-# Steps to create latex based resume
+# Steps to create latex based resume like me in 5 min
 
 1. I have used Jake Ryan overleaf template. So login to https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs website.
 2. Remove all the existing content of this template with the uploaded .tex extension file.
